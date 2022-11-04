@@ -1,28 +1,12 @@
-<p>
-    <%= link_to 'Português', root_path(locale: 'pt-BR') %>
-</p>
-<p>
-    <%= link_to 'English', root_path(locale: 'en') %>
-</p>
-
-<h1>Seja Bem-Vindo</h1>
-<!-- <p><strong> Data: <%#= Date.today.strftime("%d/%m/%Y ") %></p></strong> <!-- data de modo direto na pagina -->
-<p>O idioma usado nessa aplicação é: <%= t('actual_locale') %></p>
-Data: <%= l(Date.today) %>  <!-- data definida de um metodo -->
-<p><%= t('Hello') %></p>
+<div class="jumbotron">
+ <strong> <h1 class="display-4"><%= t('Crypto Wallet') %></h1>
+ <p class="lead"><%= t('messages.welcome') %></p>
+  <hr class="my-4">
+  <p><%= t('messages.menu') %></p></strong> 
+  <%= render "menu" %>
+</div>
 
 
 
-<%= render "menu" %>
 
-<p>
-    Você está em ambiente de <strong> <%= ambiente_rails %>   </strong>
-</p>
 
-<p>
-    Está no curso de  <strong> <%= @curso %>   </strong>
-</p>
-
-<p>
-       Eu sou uma variável de instância/sessão  <strong><%= @meu_nome %></strong>
-</p>
