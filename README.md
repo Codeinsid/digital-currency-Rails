@@ -7,7 +7,7 @@ Enjoy It and I hope you can learn a lot!
 
 Here are the technologies used in this project.
 
-* Ruby version  .2.6.9
+* Ruby version  2.6.10
 * Rails version 5.2
 * PostgreSQL/sqlite
 * Webpacker
