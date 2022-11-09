@@ -38,7 +38,8 @@ Here are the technologies used in this project.
 * To create the previous files to use on the project, on the database.
   - rake db:seed 
   - 
-  
+* To install the yarn
+* - yarn install
 * To install the gems.
   - bundle install
 
