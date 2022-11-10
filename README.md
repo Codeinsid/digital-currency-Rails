@@ -3,6 +3,11 @@ This is my project with 'I18N' 'internationalization' \o/
 Enjoy It and I hope you can learn a lot!
 
 
+## The App
+
+register digital currencies and the type of digital currency
+with two different tables linked by a foreign key.
+
 ## Technology 
 
 Here are the technologies used in this project.
