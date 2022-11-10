@@ -19,9 +19,10 @@ Here are the technologies used in this project.
 
 ## Ruby Gems
 
-* Devise
-* Bootstrap
-* Select2
+gem 'bootsnap'
+gem 'tty-spinner'
+gem 'pry-rails'
+gem 'rails-i18n'
 
 
 
