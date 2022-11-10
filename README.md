@@ -1,7 +1,6 @@
 ## Thiago almeida
-my project that guesses the random generated number
-pre-defined by the system.
 
+This is 'Digital currency registration'
 
 ## The App
 
