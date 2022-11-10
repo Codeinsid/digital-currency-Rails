@@ -19,10 +19,10 @@ Here are the technologies used in this project.
 
 ## Ruby Gems
 
-gem 'bootsnap'
-gem 'tty-spinner'
-gem 'pry-rails'
-gem 'rails-i18n'
+-bootsnap
+-tty-spinner
+-pry-rails
+-rails-i18n
 
 
 
