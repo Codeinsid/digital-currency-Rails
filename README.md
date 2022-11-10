@@ -1,6 +1,6 @@
 ## Thiago almeida
-This is my project with 'I18N' 'internationalization' \o/ 
-Enjoy It and I hope you can learn a lot!
+my project that guesses the random generated number
+pre-defined by the system.
 
 
 ## The App
